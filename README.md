@@ -1,5 +1,5 @@
 # Ambiente de teste realizado com Docker SaltStack no CentOS 
-Configurando o Docker Compose para rodar o salt master e minions.
+Configurando o Docker Compose para rodar o salt-master e minions.
 
 # Guia rápido
 
@@ -7,7 +7,7 @@ Configurando o Docker Compose para rodar o salt master e minions.
 
 Clonar o repositório abaixo:
 
-`$ git fork https://git.corp.adobe.com/dcurtis/SaltStack-Docker-CentOS`
+`$ git fork https://git.corp.adobe.com/dcurtis/SaltStackDocker`
 
 `$ cd SaltStackDocker`
 
