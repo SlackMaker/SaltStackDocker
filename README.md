@@ -65,3 +65,5 @@ Faça as alterãções necessárias no DockerFile(s) e salve os arquivos
 `$ docker-compose build`
 
 `$ docker-compose up`
+
+Crédito: https://github.com/dehvCurtis
