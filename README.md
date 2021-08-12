@@ -7,7 +7,7 @@ Configurando o Docker Compose para rodar o salt-master e minions.
 
 Clonar o repositório abaixo:
 
-`$ git fork https://git.corp.adobe.com/dcurtis/SaltStackDocker`
+`$ git fork https://github.com/SlackMaker/SaltStackDocker.git`
 
 `$ cd SaltStackDocker`
 
